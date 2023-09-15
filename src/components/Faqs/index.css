@@ -1,0 +1,16 @@
+/* Write your code here. */
+.app-container {
+  background-color: #9aa5b1;
+  height: 100vh;
+  padding: 15px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 20px;
+}
+.heading {
+  align-self: center;
+  color: #cb8805;
+}
